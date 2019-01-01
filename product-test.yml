@@ -11,3 +11,6 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 env: test3
+girl:
+ username: lucy
+ age: 18
